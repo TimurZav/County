@@ -1,6 +1,7 @@
 
 class AddRemove:
-    name_county = {"Бразилия", "Бельгия", "	Германия", "Индия"}
+    def __int__(self):
+        name_county = {"Бразилия", "Бельгия", "	Германия", "Индия"}
 
     def __init__(self, name_county):
         self.name_county = name_county
