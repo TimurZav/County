@@ -7,5 +7,6 @@ class AddRemove:
 
     def add(self):
         add_country = str(input("Введите любую страну"))
-        
+        self.name_county.append(add_country)
+
 
