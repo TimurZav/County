@@ -11,3 +11,6 @@ class CountrySearch(AddRemove):
             if query in country:
                 response.append(country)
         return response
+    
+country = CountrySearch()
+print(county)
