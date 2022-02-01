@@ -20,3 +20,5 @@ class AddRemove:
 
 addremove = AddRemove()
 addremove.add()
+
+# test
